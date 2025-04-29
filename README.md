@@ -76,6 +76,8 @@ All the Models of Fairchild(KR-31,M 62A-3,M-62A (PT-19), M62A (PT-19)) and Zwick
 
 Furthermore, aircraft with only one engine were associated with the highest accident rates. While two- and four-engine aircraft also experience accidents, the rates are much lower. Interestingly, the data shows that adding more engines doesn't linearly reduce accident risk — for instance, four engines do not guarantee four times the safety compared to one engine. This suggests that operational practices, pilot competence, and maintenance quality play more crucial roles than simply the number of engines.
 
+- Tableau [link](https://public.tableau.com/views/aviationanalysis_17459626084140/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
+
 
 #### Key Recommendations
 
